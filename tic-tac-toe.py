@@ -1,7 +1,6 @@
 import numpy as np
 import random
-for i in range(5):
-	print("")
+
 ##Initial Variable
 move_type=np.array([['a1','a2','a3'],['b1','b2','b3'],['c1','c2','c3']])
 move_made=np.empty((3,3),dtype=str)
@@ -21,9 +20,6 @@ def boardDisplay(move_made):
 			row[3+2*j]=move_made[i,j]
 		print(''.join(row))
 	return
-
-
-
 
 
 #Ensures a user's response is valid. If not, ask again. 
