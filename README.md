@@ -1,2 +1,2 @@
 # TicTacToe
-Recreating the game Tic-Tac-Toe in Python using NumPy as a framework.
+Recreating Tic-Tac-Toe in Python using the NumPy library.
