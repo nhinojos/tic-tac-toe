@@ -1,2 +1,2 @@
 # TicTacToe
-Recreating Tic-Tac-Toe in Python using the NumPy library.
+Recreating Tic-Tac-Toe in Python using NumPy.
