@@ -3,8 +3,8 @@
 To recreate Tic-Tac-Toe in Python.
 
 ### Criteria
-- Include tutorial
-- Automated opponent, ranging in difficulties. Easiest should be a bot who randomly guesses, which hardest should be impossible to beat
+- Include tutorial.
+- Automated opponent, ranging in difficulties. Easiest should be a bot who randomly guesses, which hardest should be impossible to beat.
 - User agency over piece type, who goes first, optional pre-game tutorial, and bot difficulty.
 
 ### Method & Results
