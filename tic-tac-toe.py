@@ -328,11 +328,6 @@ def ticTacToe():
 		return
 
 ###TESTING###
-#print("****TEST INITIALIZING****")
-#move_record=np.array([['x',' ','o'],['x','x','o'],['o','o','x']])
-#boardDisplay()
-#print(gameWon())
-#print("****TEST COMPLETE****")
 ticTacToe()
 
 
