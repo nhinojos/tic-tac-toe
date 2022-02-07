@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 ### Goal
-To recreate Tic-Tac-Toe in Python.
+To recreate the classic game of Tic-Tac-Toe.
 
 ### Criteria
 - Includes a tutorial.
