@@ -4,7 +4,7 @@ To recreate the classic game of Tic-Tac-Toe.
 
 ### Criteria
 - Includes a tutorial.
-- User plays against an automated opponent with ranging in difficulties. The easiest opponent should be a bot who randomly guesses while the hardest should be impossible to beat.
+- User plays against an automated opponent with ranging in difficulties. The easiest opponent randomly guesses while the hardest should be impossible to beat.
 - The user has agency over piece type, who goes first, optional pre-game tutorial, and bot difficulty.
 
 ### Method & Results
